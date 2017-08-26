@@ -1,0 +1,72 @@
+body{
+	background-color:#efefef;
+	font-family: "Hiragino Kaku Gothic Pro W3","Hiragino Kaku Gothic ProN",Meiryo,sans-serif;
+	font-size: 13px;
+	
+	
+}
+
+div.wrap{
+    width: 1000px;
+    margin: auto;
+    position: relative;
+}
+
+.project-title {
+    display: flex;
+    align-items: center;
+}
+
+.link-mark {
+    width: 4px;
+    height: 14px;
+    display: inline-block;
+    background-color: steelblue;
+    margin-right: 4px;
+}
+.link-text {
+    color: black;
+}
+
+div.image-box{
+    margin: 8px 0px 5px 0px;
+}
+
+a.anime img {
+    max-height:170px;max-width:250px;
+  padding: 3px;
+  border: 1px solid #ccc;
+  transition: 0.3s;
+  background: #ccc;
+}
+a.anime:hover img {
+  border: 1px solid #545454;
+  background: #747474;
+}
+
+.title {
+    color: #4b4b4b;
+    font-weight:bold;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.tiles-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.tile {
+    padding: 10px 10px 9px 10px;
+    margin: 0 20px 20px 0;
+    background-color: white;
+    width: 290px; height: 320px;
+    box-shadow:rgba(113, 135, 164, 0.168627) 0px 0px 6px 3px;
+    border-radius:6px;
+}
+.description {
+    font-size: 11px;
+    color: #545454;
+}
+
+.project-release-date {
+    margin-bottom: 4px;
+}

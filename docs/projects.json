@@ -1,0 +1,81 @@
+{
+    "projects": [
+        {
+            "title": "2ch専用ブラウザ",
+            "date": "2017/06",
+            "description": "windows用の2ch専用ブラウザ。黄色スライム君の絵文字で見れたり、janeと違って画像読み込みに失敗しない。",
+            "image": "kukoke-2ch.png",
+            "url": "https://socket1016.github.io/kukoke-2ch/"
+        },
+        {
+            "title": "テレビ番組のコメント勢い表示",
+            "date": "2016/12",
+            "description": "現在放送中のテレビ番組名と、ニコ二コ実況の勢いを表示するページ。ありそうでないWebページ。",
+            "image": "tv-bangumi.png",
+            "url": "https://tv-bangumi.herokuapp.com/"
+        },
+        {
+            "title": "Qiitaモドキな記事投稿サイト",
+            "date": "2016/10",
+            "description": "Qiitaに似せた自由な記事投稿サイト。誰も投稿していない。",
+            "image": "qucoke.png",
+            "url": "https://qucoke.herokuapp.com/topics/"
+        },
+        {
+            "title": "シンゴジラ倒しオンラインゲーム",
+            "date": "2016/08",
+            "description": "シンゴジラを協力して倒すオンラインゲーム",
+            "image": "godzilla.png",
+            "url": "https://jupiter-story.herokuapp.com/"
+        },
+        {
+            "title": "ロックマンエグゼ風アクションゲーム",
+            "date": "2015/09",
+            "description": "ロックマンエグゼの対戦画面をそのままブラウザ上で実装したゲーム",
+            "image": "eguze.png",
+            "url": "http://socket1016.php.xdomain.jp/eguze/"
+        },
+        {
+            "title": "2ch通販URL抽出(利用不可)",
+            "date": "2015/06",
+            "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるWEBツール。現在利用不可",
+            "image": "2ch_amazon.png",
+            "url": "http://socket1016.php.xdomain.jp/amazon/"
+        },
+        {
+            "title": "電験三種問題集",
+            "date": "2015/05",
+            "description": "電験三種（法規）の穴埋め問題集",
+            "image": "denken.png",
+            "url": "http://socket1016.php.xdomain.jp/denken/"
+        },
+        {
+            "title": "球場別ホームランシュミレーター",
+            "date": "2014/10",
+            "description": "球場によってのホームランのでやすさを、広さやフェンスを考慮してシミュレーションする",
+            "image": "homerun.png",
+            "url": "http://socket1016.php.xdomain.jp/homerun/"
+        },
+        {
+            "title": "モンスターファーム風育成ゲーム",
+            "date": "2014/09",
+            "description": "モンスターファーム2風の育成ゲーム",
+            "image": "mf2.png",
+            "url": "http://socket1016.php.xdomain.jp/mf/"
+        },
+        {
+            "title": "プロ野球ペナントシミュレーション（利用不可）",
+            "date": "2014/09",
+            "description": "現時点でのプロ野球の残りの試合をシミュレーションした場合、何位でペナントを終えるか計算する。現在利用不可",
+            "image": "penant.png",
+            "url": "http://socket1016.php.xdomain.jp/penant/"
+        },
+        {
+            "title": "数字あてゲーム",
+            "date": "2014/08",
+            "description": "数字あてゲームHIT&BLOWをそのまま作ったもの",
+            "image": "hitblow.png",
+            "url": "http://socket1016.php.xdomain.jp/hitblow/"
+        }
+    ]
+}
