@@ -17,44 +17,20 @@
     </script>
 </head>
 <body>
-    <div class="site-header">
-        <h1 class="header-title" style="font-size:26px;">
-            プログラミング成果物集
-        </h1>
-        <div style="position:absolute;top:0px;right:30px;">
-            <a href="https://twitter.com/socket1016">
-                <img src="./images/twitter.png" style="border: none;">
+    <div class="body-container">
+        <div class="site-header">
+            <h1 class="header-title">
+                プログラミング成果物集
+            </h1>
+            <a class="header-link-icon" href="https://github.com/socket1016" target="_blank">
+                <img src="./images/github-logo.png" class="header-link-icon-image github">
+            </a>
+            <a class="header-link-icon" href="https://twitter.com/socket1016" target="_blank">
+                <img src="./images/twitter.png" class="header-link-icon-image twitter">
             </a>
         </div>
+        <div class="project-tiles-container"></div>
     </div>
-    <div class="project-tiles-container">
-    </div>
-<script>
-    var xhr = new XMLHttpRequest();
-    xhr.addEventListener("load", function() {
-        var res = JSON.parse(xhr.responseText);
-        var html = res.projects.map(function(project) {
-            return ''+
-            '<div class="project-tile">' +
-                '<div class="project-title">' +
-                    '<span class="project-link-mark"></span>'+
-                    '<a class="project-link-text" href="' + project.url + '" target="_blank">' + project.title + '</a>' +
-                '</div>' +
-                '<div class="project-image-container">' +
-                    '<a class="project-image-link" href="' + project.url + '" target="_blank">' +
-                        '<img class="project-image" src="images/' + project.image + '">' +
-                    '</a>' +
-                '</div>' +
-                '<div class="project-description">' +
-                    '<div class="project-release-date">' + project.date + '</div>' +
-                    '<div>' + project.description + '</div>' +
-                '</div>' +
-            '</div>'
-        }).join("\n");
-        document.querySelector(".project-tiles-container").innerHTML = html;
-    });
-    xhr.open("GET", "./projects.json", true);
-    xhr.send();
-</script>
+    <script src="./main.js"></script>
 </body>
 </html>
