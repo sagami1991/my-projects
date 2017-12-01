@@ -52,7 +52,7 @@ body {
     margin: 0 20px 20px 0;
     background-color: white;
     width: 290px;
-    height: 320px;
+    min-height: 320px;
     box-shadow: rgba(113, 135, 164, 0.168627) 0px 0px 6px 3px;
     border-radius: 6px;
 }
