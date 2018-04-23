@@ -7,6 +7,13 @@
             "image": "2017052800j.gif",
             "url": "https://socket1016.github.io/karaoke-seimitu-saiten/index.html"
         },{
+            "title": "ハンターハンター 王位継承戦データベース",
+            "date": "2018/03",
+            "description": "ハンターハンター王位継承戦編のややこしい人物関係をまとめている。リスト表示のボタンやソート機能をJQuery等のライブラリを使用せず、独自のコンポーネントクラスを定義し共通化している。",
+            "technology": "Typescript, firebase",
+            "image": "Screenshot_55.jpg",
+            "url": "https://hunter-hunter-battle-royale.firebaseapp.com/"
+        },{
             "title": "Raspberryと温度センサを組み合わせた温度測定グラフ",
             "date": "2017/12",
             "description": "Raspberryで測定した温度データをWEB上で閲覧する（見本はなし）",
