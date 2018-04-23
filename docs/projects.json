@@ -1,6 +1,26 @@
 {
-    "projects": [
-        {
+    "projects": [{
+            "title": "WEB上で動くカラオケ精密採点",
+            "date": "2018/04",
+            "description": "カラオケの精密採点をPCに繋いだマイクを使ってhtml5で再現",
+            "technology": "Typescript, Youtube API（動画と動作を同期）",
+            "image": "2017052800j.gif",
+            "url": "https://socket1016.github.io/karaoke-seimitu-saiten/index.html"
+        },{
+            "title": "Raspberryと温度センサを組み合わせた温度測定グラフ",
+            "date": "2017/12",
+            "description": "Raspberryで測定した温度データをWEB上で閲覧する（見本はなし）",
+            "technology": "node.js, Typescript, chart.js",
+            "image": "Screenshot_95.png",
+            "url": "javascript:void(0)"
+        },{
+            "title": "WordPressテーマ",
+            "date": "2017/12",
+            "description": "1からWordPressをデプロイ＆1からテーマ作成したペットの小鳥に関するブログ（更新はしていない）",
+            "technology": "WordPress, SASS",
+            "image": "Screenshot_54.jpg",
+            "url": "http://kotori-kagaku.net/"
+        }, {
             "title": "2ch専用ブラウザ",
             "date": "2017/06",
             "description": "windows用の2ch専用ブラウザ。黄色スライム君の絵文字で見れたり、janeと違って画像読み込みに失敗しない。",
