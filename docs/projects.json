@@ -5,7 +5,7 @@
             "description": "カラオケの精密採点をPCに繋いだマイクを使ってhtml5で再現",
             "technology": "Typescript, Youtube API（動画と動作を同期）",
             "image": "2017052800j.gif",
-            "url": "https://socket1016.github.io/karaoke-seimitu-saiten/index.html"
+            "url": "https://sagami1991.github.io/karaoke-seimitu-saiten/index.html"
         },{
             "title": "ハンターハンター 王位継承戦データベース",
             "date": "2018/03",
@@ -33,7 +33,7 @@
             "description": "windows用の2ch専用ブラウザ。黄色スライム君の絵文字で見れたり、janeと違って画像読み込みに失敗しない。",
             "technology": "Electron, TypeScript, IndexedDB(dexie)",
             "image": "kukoke-2ch.png",
-            "url": "https://socket1016.github.io/kukoke-2ch/"
+            "url": "https://sagami1991.github.io/kukoke-2ch/"
         },
         {
             "title": "テレビ番組のコメント勢い表示",
@@ -65,7 +65,7 @@
             "description": "ロックマンエグゼの対戦画面をそのままブラウザ上で実装したゲーム",
             "technology": "JavaScript, Canvas",
             "image": "eguze.png",
-            "url": "http://socket1016.php.xdomain.jp/eguze/"
+            "url": "http://sagami1991.php.xdomain.jp/eguze/"
         },
         {
             "title": "2ch通販URL抽出(利用不可)",
@@ -73,7 +73,7 @@
             "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるWEBツール。現在利用不可",
             "technology": "PHP",
             "image": "2ch_amazon.png",
-            "url": "http://socket1016.php.xdomain.jp/amazon/"
+            "url": "http://sagami1991.php.xdomain.jp/amazon/"
         },
         {
             "title": "電験三種問題集",
@@ -81,35 +81,35 @@
             "description": "電験三種（法規）の穴埋め問題集",
             "technology": "JavaScript",
             "image": "denken.png",
-            "url": "http://socket1016.php.xdomain.jp/denken/"
+            "url": "http://sagami1991.php.xdomain.jp/denken/"
         },
         {
             "title": "球場別ホームランシュミレーター",
             "date": "2014/10",
             "description": "球場によってのホームランのでやすさを、広さやフェンスを考慮してシミュレーションする",
             "image": "homerun.png",
-            "url": "http://socket1016.php.xdomain.jp/homerun/"
+            "url": "http://sagami1991.php.xdomain.jp/homerun/"
         },
         {
             "title": "モンスターファーム風育成ゲーム",
             "date": "2014/09",
             "description": "モンスターファーム2風の育成ゲーム",
             "image": "mf2.png",
-            "url": "http://socket1016.php.xdomain.jp/mf2/"
+            "url": "http://sagami1991.php.xdomain.jp/mf2/"
         },
         {
             "title": "プロ野球ペナントシミュレーション（利用不可）",
             "date": "2014/09",
             "description": "現時点でのプロ野球の残りの試合をシミュレーションした場合、何位でペナントを終えるか計算する。現在利用不可",
             "image": "penant.png",
-            "url": "http://socket1016.php.xdomain.jp/penant/"
+            "url": "http://sagami1991.php.xdomain.jp/penant/"
         },
         {
             "title": "数字あてゲーム",
             "date": "2014/08",
             "description": "数字あてゲームHIT&BLOWをそのまま作ったもの",
             "image": "hitblow.png",
-            "url": "http://socket1016.php.xdomain.jp/hitblow/"
+            "url": "http://sagami1991.php.xdomain.jp/hitblow/"
         }
     ]
 }
