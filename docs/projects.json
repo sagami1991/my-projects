@@ -65,7 +65,7 @@
             "description": "ロックマンエグゼの対戦画面をそのままブラウザ上で実装したゲーム",
             "technology": "JavaScript, Canvas",
             "image": "eguze.png",
-            "url": "http://sagami1991.php.xdomain.jp/eguze/"
+            "url": "http://socket1016.php.xdomain.jp/eguze/"
         },
         {
             "title": "2ch通販URL抽出(利用不可)",
@@ -73,7 +73,7 @@
             "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるWEBツール。現在利用不可",
             "technology": "PHP",
             "image": "2ch_amazon.png",
-            "url": "http://sagami1991.php.xdomain.jp/amazon/"
+            "url": "http://socket1016.php.xdomain.jp/amazon/"
         },
         {
             "title": "電験三種問題集",
@@ -81,35 +81,35 @@
             "description": "電験三種（法規）の穴埋め問題集",
             "technology": "JavaScript",
             "image": "denken.png",
-            "url": "http://sagami1991.php.xdomain.jp/denken/"
+            "url": "http://socket1016.php.xdomain.jp/denken/"
         },
         {
             "title": "球場別ホームランシュミレーター",
             "date": "2014/10",
             "description": "球場によってのホームランのでやすさを、広さやフェンスを考慮してシミュレーションする",
             "image": "homerun.png",
-            "url": "http://sagami1991.php.xdomain.jp/homerun/"
+            "url": "http://socket1016.php.xdomain.jp/homerun/"
         },
         {
             "title": "モンスターファーム風育成ゲーム",
             "date": "2014/09",
             "description": "モンスターファーム2風の育成ゲーム",
             "image": "mf2.png",
-            "url": "http://sagami1991.php.xdomain.jp/mf2/"
+            "url": "http://socket1016.php.xdomain.jp/mf2/"
         },
         {
             "title": "プロ野球ペナントシミュレーション（利用不可）",
             "date": "2014/09",
             "description": "現時点でのプロ野球の残りの試合をシミュレーションした場合、何位でペナントを終えるか計算する。現在利用不可",
             "image": "penant.png",
-            "url": "http://sagami1991.php.xdomain.jp/penant/"
+            "url": "http://socket1016.php.xdomain.jp/penant/"
         },
         {
             "title": "数字あてゲーム",
             "date": "2014/08",
             "description": "数字あてゲームHIT&BLOWをそのまま作ったもの",
             "image": "hitblow.png",
-            "url": "http://sagami1991.php.xdomain.jp/hitblow/"
+            "url": "http://socket1016.php.xdomain.jp/hitblow/"
         }
     ]
 }
