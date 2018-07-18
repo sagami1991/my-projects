@@ -19,7 +19,7 @@
             "description": "Raspberryで測定した温度データをWEB上で閲覧する（見本はなし）",
             "technology": "node.js, Typescript, chart.js",
             "image": "Screenshot_95.png",
-            "url": "javascript:void(0)"
+            "url": "https://github.com/sagami1991/raspberry-pi-temperature-monitor"
         },{
             "title": "WordPressテーマ",
             "date": "2017/12",
