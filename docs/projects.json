@@ -23,10 +23,10 @@
         },{
             "title": "WordPressテーマ",
             "date": "2017/12",
-            "description": "1からWordPressをデプロイ＆1からテーマ作成したペットの小鳥に関するブログ（更新はしていない）",
-            "technology": "WordPress, SASS",
+            "description": "1からWordPressをデプロイ＆1からテーマ作成したペットの小鳥に関するブログ（現在非公開）",
+            "technology": "PHP, WordPress, SASS",
             "image": "Screenshot_54.jpg",
-            "url": "http://kotori-kagaku.net/"
+            "url": "javascript:void(0)"
         }, {
             "title": "2ch専用ブラウザ",
             "date": "2017/06",
