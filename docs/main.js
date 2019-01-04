@@ -1,6 +1,6 @@
 // @ts-check
 /**
- * @typedef { {url: string; title: string, image: string, description: string, date: string, technology: string} } Project
+ * @typedef { {url: string; title: string, image: string, description: string, date: string, technology: string, workTime: string, source: string} } Project
  */
 
 var xhr = new XMLHttpRequest();
@@ -26,6 +26,20 @@ xhr.addEventListener("load", function () {
                 project.technology ?
                 ('<div style="font-weight: bold;">' + '■技術' + '</div>' +
                     '<div>' + project.technology + '</div>') : ""
+            ) +
+            (
+                project.workTime ?
+                ('<div style="font-weight: bold;">' + '■製作時間' + '</div>' +
+                    '<div>' + project.workTime + '</div>') : ""
+            ) +
+            (
+                project.source ?
+                ('<div>' +
+                    '<a class="project-image-link" href="' + project.source + '" target="_blank">' +
+                        'ソースコード' +
+                    '</a>' +
+                 '</div>') 
+                : ""
             ) +
             '</div>' +
             '</div>'

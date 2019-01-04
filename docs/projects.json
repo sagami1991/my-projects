@@ -3,66 +3,83 @@
             "title": "WEB上で動くカラオケ精密採点",
             "date": "2018/04",
             "description": "カラオケの精密採点をPCに繋いだマイクを使ってhtml5で再現",
+            "workTime": "2日",
             "technology": "Typescript, Youtube API（動画と動作を同期）",
             "image": "2017052800j.gif",
-            "url": "https://sagami1991.github.io/karaoke-seimitu-saiten/index.html"
+            "url": "https://sagami1991.github.io/karaoke-seimitu-saiten/index.html",
+            "source": "https://github.com/sagami1991/karaoke-seimitu-saiten"
         },{
             "title": "ハンターハンター 王位継承戦データベース",
             "date": "2018/03",
             "description": "ハンターハンター王位継承戦編のややこしい人物関係をまとめている。リスト表示のボタンやソート機能をJQuery等のライブラリを使用せず、独自のコンポーネントクラスを定義し共通化している。",
+            "workTime": "1日",
             "technology": "Typescript, firebase",
             "image": "Screenshot_55.jpg",
-            "url": "https://hunter-hunter-battle-royale.firebaseapp.com/"
+            "url": "https://hunter-hunter-battle-royale.firebaseapp.com/",
+            "source": "https://github.com/sagami1991/hunter-huter-kakin-battle-royale"
         },{
             "title": "Raspberryと温度センサを組み合わせた温度測定グラフ",
             "date": "2017/12",
-            "description": "Raspberryで測定した温度データをWEB上で閲覧する（見本はなし）",
+            "description": "Raspberryで測定した温度データをWEB上で閲覧する（ソースコードのみ）",
+            "workTime": "2日",
             "technology": "node.js, Typescript, chart.js",
             "image": "Screenshot_95.png",
-            "url": "https://github.com/sagami1991/raspberry-pi-temperature-monitor"
+            "url": "https://github.com/sagami1991/raspberry-pi-temperature-monitor",
+            "source": "https://github.com/sagami1991/raspberry-pi-temperature-monitor"
         },{
             "title": "WordPressテーマ",
             "date": "2017/12",
             "description": "1からWordPressをデプロイ＆1からテーマ作成したペットの小鳥に関するブログ",
-            "technology": "PHP, WordPress, SASS",
+            "workTime": "3日",
+            "technology": "PHP, WordPress",
             "image": "Screenshot_54.jpg",
-            "url": "http://kotori-kagaku.tk/"
+            "url": "http://kotori-kagaku.tk/",
+            "source": "https://github.com/sagami1991/wordpress-my-theme"
         }, {
             "title": "2ch専用ブラウザ",
             "date": "2017/06",
             "description": "windows用の2ch専用ブラウザ。黄色スライム君の絵文字で見れたり、janeと違って画像読み込みに失敗しない。",
+            "workTime": "15日",
             "technology": "Electron, TypeScript, IndexedDB(dexie)",
             "image": "kukoke-2ch.png",
-            "url": "https://sagami1991.github.io/kukoke-2ch/"
+            "url": "https://sagami1991.github.io/kukoke-2ch/",
+            "source": "https://github.com/sagami1991/kukoke-2ch"
         },
         {
             "title": "テレビ番組のコメント勢い表示",
             "date": "2016/12",
             "description": "現在放送中のテレビ番組名と、ニコ二コ実況の勢いを表示するページ。ありそうでないWebページ。",
+            "workTime": "3時間",
             "technology": "NodeJS, TypeScript, Express, Heroku",
             "image": "tv-bangumi.png",
-            "url": "https://tv-bangumi.herokuapp.com/"
+            "url": "https://tv-bangumi.herokuapp.com/",
+            "source": "https://github.com/sagami1991/tv-bangumi-ikioi-now"
         },
         {
             "title": "Qiitaモドキな記事投稿サイト",
             "date": "2016/10",
             "description": "Qiitaに似せた自由な記事投稿サイト。誰も投稿していない。",
+            "workTime": "5日",
             "technology": "NodeJS, TypeScript, Express, Heroku, MongoDB",
             "image": "qucoke.png",
-            "url": "https://qucoke.herokuapp.com/topics/"
+            "url": "https://qucoke.herokuapp.com/topics/",
+            "source": "https://github.com/sagami1991/qucoke"
         },
         {
             "title": "シンゴジラ倒しオンラインゲーム",
             "date": "2016/08",
             "description": "シンゴジラを協力して倒すオンラインゲーム",
+            "workTime": "3日",
             "technology": "NodeJS, TypeScript, Express, Heroku, MongoDB, WebSocket, Canvas",
             "image": "godzilla.png",
-            "url": "https://jupiter-story.herokuapp.com/"
+            "url": "https://jupiter-story.herokuapp.com/",
+            "source": "https://github.com/sagami1991/jupiter-story"
         },
         {
             "title": "ロックマンエグゼ風アクションゲーム",
             "date": "2015/09",
             "description": "ロックマンエグゼの対戦画面をそのままブラウザ上で実装したゲーム",
+            "workTime": "1日",
             "technology": "JavaScript, Canvas",
             "image": "eguze.png",
             "url": "http://socket1016.php.xdomain.jp/eguze/"
@@ -71,6 +88,7 @@
             "title": "2ch通販URL抽出(利用不可)",
             "date": "2015/06",
             "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるWEBツール。現在利用不可",
+            "workTime": "1日",
             "technology": "PHP",
             "image": "2ch_amazon.png",
             "url": "http://socket1016.php.xdomain.jp/amazon/"
@@ -79,6 +97,7 @@
             "title": "電験三種問題集",
             "date": "2015/05",
             "description": "電験三種（法規）の穴埋め問題集",
+            "workTime": "3日",
             "technology": "JavaScript",
             "image": "denken.png",
             "url": "http://socket1016.php.xdomain.jp/denken/"
@@ -87,6 +106,7 @@
             "title": "球場別ホームランシュミレーター",
             "date": "2014/10",
             "description": "球場によってのホームランのでやすさを、広さやフェンスを考慮してシミュレーションする",
+            "workTime": "1日",
             "image": "homerun.png",
             "url": "http://socket1016.php.xdomain.jp/homerun/"
         },
@@ -94,12 +114,14 @@
             "title": "モンスターファーム風育成ゲーム",
             "date": "2014/09",
             "description": "モンスターファーム2風の育成ゲーム",
+            "workTime": "5日",
             "image": "mf2.png",
             "url": "http://socket1016.php.xdomain.jp/mf2/"
         },
         {
             "title": "プロ野球ペナントシミュレーション（利用不可）",
             "date": "2014/09",
+            "workTime": "3時間",
             "description": "現時点でのプロ野球の残りの試合をシミュレーションした場合、何位でペナントを終えるか計算する。現在利用不可",
             "image": "penant.png",
             "url": "http://socket1016.php.xdomain.jp/penant/"
@@ -107,6 +129,7 @@
         {
             "title": "数字あてゲーム",
             "date": "2014/08",
+            "workTime": "3時間",
             "description": "数字あてゲームHIT&BLOWをそのまま作ったもの",
             "image": "hitblow.png",
             "url": "http://socket1016.php.xdomain.jp/hitblow/"
