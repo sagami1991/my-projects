@@ -1,35 +1,35 @@
 {
     "projects": [{
-            "title": "WEB上で動くカラオケ精密採点",
+            "title": "WEB上で動くカラオケ精密採点(PC, chrome限定)",
             "date": "2018/04",
-            "description": "カラオケの精密採点をPCに繋いだマイクを使ってhtml5で再現",
+            "description": "PCに繋いだマイクを使ってカラオケの精密採点ができる",
             "workTime": "2日",
-            "technology": "Typescript, Youtube API（動画と動作を同期）",
+            "technology": "TypeScript, Youtube API（動画と動作を同期）",
             "image": "2017052800j.gif",
             "url": "https://sagami1991.github.io/karaoke-seimitu-saiten/index.html",
             "source": "https://github.com/sagami1991/karaoke-seimitu-saiten"
         },{
             "title": "ハンターハンター 王位継承戦データベース",
             "date": "2018/03",
-            "description": "ハンターハンター王位継承戦編のややこしい人物関係をまとめている。リスト表示のボタンやソート機能をJQuery等のライブラリを使用せず、独自のコンポーネントクラスを定義し共通化している。",
+            "description": "ハンターハンター王位継承戦編のややこしい人物関係をまとめている。",
             "workTime": "1日",
-            "technology": "Typescript, firebase",
+            "technology": "TypeScript, firebase",
             "image": "Screenshot_55.jpg",
             "url": "https://hunter-hunter-battle-royale.firebaseapp.com/",
             "source": "https://github.com/sagami1991/hunter-huter-kakin-battle-royale"
         },{
-            "title": "Raspberryと温度センサを組み合わせた温度測定グラフ",
+            "title": "Raspberry Piと温度センサを組み合わせた温度測定グラフ",
             "date": "2017/12",
-            "description": "Raspberryで測定した温度データをWEB上で閲覧する（ソースコードのみ）",
+            "description": "Raspberry Piでリアルタイムに測定した温度をWEB上で閲覧する（ソースコードのみ）",
             "workTime": "2日",
-            "technology": "node.js, Typescript, chart.js",
+            "technology": "node.js, TypeScript, chart.js",
             "image": "Screenshot_95.png",
             "url": "https://github.com/sagami1991/raspberry-pi-temperature-monitor",
             "source": "https://github.com/sagami1991/raspberry-pi-temperature-monitor"
         },{
-            "title": "WordPressテーマ",
+            "title": "WordPress",
             "date": "2017/12",
-            "description": "1からWordPressをデプロイ＆1からテーマ作成したペットの小鳥に関するブログ",
+            "description": "ペットの小鳥に関するブログ（更新する気なし）",
             "workTime": "3日",
             "technology": "PHP, WordPress",
             "image": "Screenshot_54.jpg",
@@ -50,7 +50,7 @@
             "date": "2016/12",
             "description": "現在放送中のテレビ番組名と、ニコ二コ実況の勢いを表示するページ。ありそうでないWebページ。",
             "workTime": "3時間",
-            "technology": "NodeJS, TypeScript, Express, Heroku",
+            "technology": "node.js, TypeScript, Express, Heroku",
             "image": "tv-bangumi.png",
             "url": "https://tv-bangumi.herokuapp.com/",
             "source": "https://github.com/sagami1991/tv-bangumi-ikioi-now"
@@ -60,7 +60,7 @@
             "date": "2016/10",
             "description": "Qiitaに似せた自由な記事投稿サイト。誰も投稿していない。",
             "workTime": "5日",
-            "technology": "NodeJS, TypeScript, Express, Heroku, MongoDB",
+            "technology": "node.js, TypeScript, Express, Heroku, MongoDB",
             "image": "qucoke.png",
             "url": "https://qucoke.herokuapp.com/topics/",
             "source": "https://github.com/sagami1991/qucoke"
@@ -69,8 +69,8 @@
             "title": "シンゴジラ倒しオンラインゲーム",
             "date": "2016/08",
             "description": "シンゴジラを協力して倒すオンラインゲーム",
-            "workTime": "3日",
-            "technology": "NodeJS, TypeScript, Express, Heroku, MongoDB, WebSocket, Canvas",
+            "workTime": "4日",
+            "technology": "node.js, TypeScript, Express, Heroku, MongoDB, WebSocket, Canvas",
             "image": "godzilla.png",
             "url": "https://jupiter-story.herokuapp.com/",
             "source": "https://github.com/sagami1991/jupiter-story"
@@ -78,7 +78,7 @@
         {
             "title": "ロックマンエグゼ風アクションゲーム",
             "date": "2015/09",
-            "description": "ロックマンエグゼの対戦画面をそのままブラウザ上で実装したゲーム",
+            "description": "ロックマンエグゼの対戦画面をパクったゲーム",
             "workTime": "1日",
             "technology": "JavaScript, Canvas",
             "image": "eguze.png",
@@ -87,7 +87,7 @@
         {
             "title": "2ch通販URL抽出(利用不可)",
             "date": "2015/06",
-            "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるWEBツール。現在利用不可",
+            "description": "2chのスレッドのURLを入力すると、そのスレッドに貼られた通販サイトの情報を表示してくれるツール。現在利用不可",
             "workTime": "1日",
             "technology": "PHP",
             "image": "2ch_amazon.png",
